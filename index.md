@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Merci d'avoir assisté à cette présentation
 
-You can use the [editor on GitHub](https://github.com/iarn/3Dpclass/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+N'hésitez pas à me contacter si vous avez besoin de plus de ressources, ou pour des projets : [mon site perso](http://www.book.iarnvida.com/) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### lien de téléchargement
 
-### Markdown
+[présentation impression 3D 2021](https://raw.githubusercontent.com/iarn/3Dpclass/main/Impression%203D%20Efap(2).pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iarn/3Dpclass/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Bonne continuation à tous :)
